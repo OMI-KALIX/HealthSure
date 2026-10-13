@@ -1,3 +1,9 @@
-scratch
-pages\__pycache__SSS
-.pytest_cache
+__pycache__/
+*.py[cod]
+*$py.class
+scratch/
+.pytest_cache/
+.env
+.venv
+env/
+venv/

@@ -249,6 +249,8 @@ with tab_single:
         wh_val = pred_result.get("weight_height_ratio", 0.0)
         inc_bmi_val = pred_result.get("income_bmi", 0.0)
         smk_inc_val = pred_result.get("smoker_income", 0.0)
+        if pred_result.get("reason"):
+            st.info(f"ℹ️ Actuarial Engine Note: {pred_result.get('reason')}")
 
         section("Actuarial Risk Assessment", "Model classification and class probability distribution.")
 
