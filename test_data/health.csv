@@ -1,0 +1,126 @@
+patient_id,date,category,field,value
+P-10294,2024-01-01,demographics,name,John Doe
+P-10294,2024-01-01,demographics,age,57
+P-10294,2024-01-01,demographics,gender,Male
+P-10294,2024-01-01,demographics,blood_group,O+
+P-10294,2024-01-01,demographics,height_cm,172
+P-10294,2024-01-01,demographics,weight_kg,81
+P-10294,2024-01-01,demographics,city,Pune
+P-10294,2024-01-01,demographics,allergies,Penicillin
+P-10294,2024-01-15,vitals,systolic,142
+P-10294,2024-01-15,vitals,diastolic,88
+P-10294,2024-01-15,vitals,heart_rate,84
+P-10294,2024-01-15,vitals,temperature,36.8
+P-10294,2024-01-15,vitals,spo2,97
+P-10294,2024-04-12,vitals,systolic,138
+P-10294,2024-04-12,vitals,diastolic,86
+P-10294,2024-04-12,vitals,heart_rate,80
+P-10294,2024-04-12,vitals,temperature,36.7
+P-10294,2024-04-12,vitals,spo2,98
+P-10294,2024-07-18,vitals,systolic,145
+P-10294,2024-07-18,vitals,diastolic,90
+P-10294,2024-07-18,vitals,heart_rate,88
+P-10294,2024-07-18,vitals,temperature,36.9
+P-10294,2024-07-18,vitals,spo2,96
+P-10294,2024-10-05,vitals,systolic,148
+P-10294,2024-10-05,vitals,diastolic,92
+P-10294,2024-10-05,vitals,heart_rate,82
+P-10294,2024-10-05,vitals,temperature,36.6
+P-10294,2024-10-05,vitals,spo2,97
+P-10294,2025-01-20,vitals,systolic,144
+P-10294,2025-01-20,vitals,diastolic,88
+P-10294,2025-01-20,vitals,heart_rate,79
+P-10294,2025-01-20,vitals,temperature,36.7
+P-10294,2025-01-20,vitals,spo2,98
+P-10294,2025-04-14,vitals,systolic,150
+P-10294,2025-04-14,vitals,diastolic,94
+P-10294,2025-04-14,vitals,heart_rate,86
+P-10294,2025-04-14,vitals,temperature,36.8
+P-10294,2025-04-14,vitals,spo2,97
+P-10294,2025-07-22,vitals,systolic,146
+P-10294,2025-07-22,vitals,diastolic,90
+P-10294,2025-07-22,vitals,heart_rate,83
+P-10294,2025-07-22,vitals,temperature,36.7
+P-10294,2025-07-22,vitals,spo2,98
+P-10294,2025-10-08,vitals,systolic,152
+P-10294,2025-10-08,vitals,diastolic,95
+P-10294,2025-10-08,vitals,heart_rate,90
+P-10294,2025-10-08,vitals,temperature,36.9
+P-10294,2025-10-08,vitals,spo2,96
+P-10294,2024-01-15,labs,hba1c,7.4
+P-10294,2024-01-15,labs,glucose,142
+P-10294,2024-01-15,labs,creatinine,1.20
+P-10294,2024-01-15,labs,cholesterol,208
+P-10294,2024-01-15,labs,hdl,42
+P-10294,2024-04-12,labs,hba1c,7.2
+P-10294,2024-04-12,labs,glucose,138
+P-10294,2024-04-12,labs,creatinine,1.25
+P-10294,2024-04-12,labs,cholesterol,205
+P-10294,2024-04-12,labs,hdl,43
+P-10294,2024-07-18,labs,hba1c,7.8
+P-10294,2024-07-18,labs,glucose,155
+P-10294,2024-07-18,labs,creatinine,1.30
+P-10294,2024-07-18,labs,cholesterol,215
+P-10294,2024-07-18,labs,hdl,41
+P-10294,2024-10-05,labs,hba1c,7.6
+P-10294,2024-10-05,labs,glucose,148
+P-10294,2024-10-05,labs,creatinine,1.32
+P-10294,2024-10-05,labs,cholesterol,212
+P-10294,2024-10-05,labs,hdl,41
+P-10294,2025-01-20,labs,hba1c,7.9
+P-10294,2025-01-20,labs,glucose,162
+P-10294,2025-01-20,labs,creatinine,1.38
+P-10294,2025-01-20,labs,cholesterol,218
+P-10294,2025-01-20,labs,hdl,40
+P-10294,2025-04-14,labs,hba1c,8.1
+P-10294,2025-04-14,labs,glucose,168
+P-10294,2025-04-14,labs,creatinine,1.42
+P-10294,2025-04-14,labs,cholesterol,222
+P-10294,2025-04-14,labs,hdl,39
+P-10294,2025-07-22,labs,hba1c,8.0
+P-10294,2025-07-22,labs,glucose,165
+P-10294,2025-07-22,labs,creatinine,1.40
+P-10294,2025-07-22,labs,cholesterol,220
+P-10294,2025-07-22,labs,hdl,40
+P-10294,2025-10-08,labs,hba1c,8.3
+P-10294,2025-10-08,labs,glucose,172
+P-10294,2025-10-08,labs,creatinine,1.45
+P-10294,2025-10-08,labs,cholesterol,225
+P-10294,2025-10-08,labs,hdl,38
+P-10294,2018-05-10,diagnoses,condition_name,Essential Hypertension
+P-10294,2018-05-10,diagnoses,icd10,I10
+P-10294,2018-05-10,diagnoses,status,active
+P-10294,2019-08-22,diagnoses,condition_name,Type 2 Diabetes Mellitus
+P-10294,2019-08-22,diagnoses,icd10,E11
+P-10294,2019-08-22,diagnoses,status,active
+P-10294,2022-03-14,diagnoses,condition_name,Chronic Kidney Disease Stage 2
+P-10294,2022-03-14,diagnoses,icd10,N18
+P-10294,2022-03-14,diagnoses,status,active
+P-10294,2023-11-02,diagnoses,condition_name,Hyperlipidemia
+P-10294,2023-11-02,diagnoses,icd10,E78
+P-10294,2023-11-02,diagnoses,status,active
+P-10294,2024-06-15,diagnoses,condition_name,Community-acquired Pneumonia
+P-10294,2024-06-15,diagnoses,icd10,J18
+P-10294,2024-06-15,diagnoses,status,resolved
+P-10294,2018-05-12,medications,drug_name,Amlodipine
+P-10294,2018-05-12,medications,dose,5 mg
+P-10294,2018-05-12,medications,frequency,Once daily
+P-10294,2019-08-25,medications,drug_name,Metformin
+P-10294,2019-08-25,medications,dose,500 mg
+P-10294,2019-08-25,medications,frequency,Twice daily
+P-10294,2023-11-05,medications,drug_name,Atorvastatin
+P-10294,2023-11-05,medications,dose,10 mg
+P-10294,2023-11-05,medications,frequency,Once at night
+P-10294,2025-02-10,medications,drug_name,Telmisartan
+P-10294,2025-02-10,medications,dose,40 mg
+P-10294,2025-02-10,medications,frequency,Once daily
+P-10294,2024-01-15,encounters,reason,Routine diabetes follow-up
+P-10294,2024-01-15,encounters,type,outpatient
+P-10294,2024-01-15,encounters,cost,1200
+P-10294,2024-06-15,encounters,reason,Community-acquired pneumonia
+P-10294,2024-06-15,encounters,type,inpatient
+P-10294,2024-06-15,encounters,cost,38000
+P-10294,2024-06-15,encounters,duration_days,5
+P-10294,2025-04-14,encounters,reason,Blood pressure review
+P-10294,2025-04-14,encounters,type,outpatient
+P-10294,2025-04-14,encounters,cost,900

@@ -1,0 +1,12 @@
+services:
+  - type: web
+    name: healthsure
+    runtime: docker
+    plan: free
+    region: oregon
+    dockerContext: .
+    dockerfilePath: ./Dockerfile
+    healthCheckPath: /_stcore/health
+    envVars:
+      - key: PORT
+        value: 8501
